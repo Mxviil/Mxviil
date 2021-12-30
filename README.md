@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mxviil
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Haskell and improving Python Proficiency
+- 🌱 I’m currently learning WebDevelopment and Improving Python proficiency
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
